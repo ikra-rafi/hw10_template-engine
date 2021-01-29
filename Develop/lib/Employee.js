@@ -16,11 +16,11 @@ class Employee {
     }
 
     getEmail() {
-        return this.email
+        return this.email;
     }
 
     getRole() {
-        return this.email
+        return "Employee";
     }
 
 }
