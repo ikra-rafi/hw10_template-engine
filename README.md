@@ -1,27 +1,20 @@
-# Unit 10 Team Member Information Generator
-
-Screenshots and video in Assets folder.
-Partners: Menuka, Luna and Zaid!
-Link to video: https://drive.google.com/file/d/1N4giqnyYvn6N_aqZVez3Hsxx7q5AyjTj/view?usp=sharing
-github: https://github.com/ikra-rafi/hw10_template-engine
+# Unit 10: Team Member User Information
+## Contributors:
+Luna Shuqair https://github.com/LShuqair
+Menuka Gusain https://github.com/Menuka786
+Zaid Alharahsheh 
 
 ## Description
-
-This project will let you put together an engineer team byt allowing the user to select and name a manager, engineers, and interns. The information will populate or generate an html file with the user's input. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Create a team generator that will create a team.html file. This project will let you put together an engineer team by allowing the user to select and name a manager, engineers, and interns. The information will populate or generate an html file with the user's input.
+Screenshots and video in Assets folder. 
+## Images
+![Team HTML 1](Assets\team-1.png)
+![Team HTML 2](Assets\team-2.png)
+![My Team Browser Screenshot](Assets\HW-10_IkraRafi-Final.png)
+### URLs
+W/o test: https://drive.google.com/file/d/1N4giqnyYvn6N_aqZVez3Hsxx7q5AyjTj/view?usp=sharing 
+With Test: https://drive.google.com/file/d/1yLHGZBQtsm2zrYBCScphBwcTzu-C8AAQ/view
+github: https://github.com/ikra-rafi/hw10_template-engine
 
 
 
