@@ -8,8 +8,8 @@ Zaid Alharahsheh
 Create a team generator that will create a team.html file. This project will let you put together an engineer team by allowing the user to select and name a manager, engineers, and interns. The information will populate or generate an html file with the user's input.
 Screenshots and video in Assets folder. 
 ## Images
-![Team HTML 1](Assets\team-1.png)
-![Team HTML 2](Assets\team-2.png)
+![Team HTML 1](https://github.com/ikra-rafi/hw10_template-engine/blob/main/team-1.png)
+![Team HTML 2](https://github.com/ikra-rafi/hw10_template-engine/blob/main/team-.png)
 ![My Team Browser Screenshot](Assets\HW-10_IkraRafi-Final.png)
 ### URLs
 W/o test: https://drive.google.com/file/d/1N4giqnyYvn6N_aqZVez3Hsxx7q5AyjTj/view?usp=sharing 
